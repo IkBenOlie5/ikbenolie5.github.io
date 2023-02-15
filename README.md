@@ -13,8 +13,7 @@ Als je clusters genereerd, kan je goed zien dat er een tweedeling is in bruggers
 
 ---
 
-![afbeelding](https://user-images.githubusercontent.com/73174454/219216220-8bc2a20a-2487-4eee-b8ed-aa034a6997ff.png)
-
+![afbeelding](https://user-images.githubusercontent.com/73174454/219222301-5c3bc8b1-886d-415d-b2cd-caf120882b7b.png)
 
 Als je de twee gemeten volwassenen toevoegd dan zie je dat de tendens niet doorzet en uiteindelijk afkapt.
 
