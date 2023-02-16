@@ -1,6 +1,7 @@
 # Analyse biologie
 
 ![afbeelding](https://user-images.githubusercontent.com/73174454/219216631-44893087-52c9-4473-aa15-ed46861df09d.png)
+
 p = 0,31
 
 Er is dus geen significant verband tussen leeftijd en het aantal fouten al is het wel interessant dat de eersteklassers meer fouten maakten, al is er dus wel een grote kans dat dit toeval was.
