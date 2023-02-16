@@ -1,6 +1,6 @@
 # Analyse biologie
 
-![afbeelding](https://user-images.githubusercontent.com/73174454/219216631-44893087-52c9-4473-aa15-ed46861df09d.png)
+![afbeelding](https://user-images.githubusercontent.com/73174454/219318575-46be884e-8923-4138-b794-17062d6b10cb.png)
 
 p = 0,31
 
@@ -8,20 +8,20 @@ Er is dus geen significant verband tussen leeftijd en het aantal fouten. Het wel
 
 ---
 
-![afbeelding](https://user-images.githubusercontent.com/73174454/219215461-77ed2d15-d6a8-4f65-9f58-b431c6663e72.png)
+![afbeelding](https://user-images.githubusercontent.com/73174454/219318892-172921af-613a-4715-a57c-18f68d50e207.png)
 
 Als je clusters genereerd, kan je goed zien dat er een tweedeling is in bruggers. Het is nog onduidelijk waardoor dit komt.
 
 ---
 
-![afbeelding](https://user-images.githubusercontent.com/73174454/219311566-5ccde2ff-d818-47f1-8efc-36e2ca341d2b.png)
+![afbeelding](https://user-images.githubusercontent.com/73174454/219319064-db8c0543-9a58-4528-aff8-280be9c0aa2a.png)
 
-
-Als je de twee gemeten volwassenen toevoegt dan zie je dat de tendens niet doorzet en uiteindelijk afkapt.
+Als je de twee gemeten volwassenen toevoegt dan zie je dat de tendens niet doorzet, maar uiteindelijk afkapt.
 
 ---
 
-![afbeelding](https://user-images.githubusercontent.com/73174454/219220516-0773b704-db7d-43dc-bc55-fd6df06bf7ae.png)
+![afbeelding](https://user-images.githubusercontent.com/73174454/219319355-148658aa-7480-4e00-b27a-06dac4989c09.png)
+
 
 p = 0,23
 
