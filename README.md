@@ -4,7 +4,7 @@
 
 p = 0,31
 
-Er is dus geen significant verband tussen leeftijd en het aantal fouten al is het wel interessant dat de eersteklassers meer fouten maakten, al is er dus wel een grote kans dat dit toeval was.
+Er is dus geen significant verband tussen leeftijd en het aantal fouten. Het wel interessant dat de eersteklassers meer fouten maakten, al is er dus wel een grote kans dat dit toeval was.
 
 ---
 
@@ -14,9 +14,10 @@ Als je clusters genereerd, kan je goed zien dat er een tweedeling is in bruggers
 
 ---
 
-![afbeelding](https://user-images.githubusercontent.com/73174454/219222301-5c3bc8b1-886d-415d-b2cd-caf120882b7b.png)
+![afbeelding](https://user-images.githubusercontent.com/73174454/219311566-5ccde2ff-d818-47f1-8efc-36e2ca341d2b.png)
 
-Als je de twee gemeten volwassenen toevoegd dan zie je dat de tendens niet doorzet en uiteindelijk afkapt.
+
+Als je de twee gemeten volwassenen toevoegt dan zie je dat de tendens niet doorzet en uiteindelijk afkapt.
 
 ---
 
